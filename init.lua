@@ -108,6 +108,10 @@ require 'lazy-plugins'
 -- [[ Styling ]]
 require 'style'
 
+-- [[ Custom commands ]]
+require 'commands'
+
+-- [[ Plugin health checkup script ]]
 require 'health'
 
 -- The line beneath this is called `modeline`. See `:help modeline`
